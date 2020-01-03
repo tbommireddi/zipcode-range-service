@@ -26,8 +26,8 @@ Then the output should be = [94133,94133] [94200,94399]
  # Steps to run the code:
  1. Download the code from the GIT URL https://github.com/tbommireddi/zipcode-range-service
  2. Goto /zipcode-range-service/target/ folder
- 3. Run java -jar zipcode-range-service-0.0.1-SNAPSHOT.jar
-    Enter zip code ranges:<enter string of zip code ranges as given below>
+ 3. Run java -jar zipcode-range-service-0.0.1-SNAPSHOT.jar                                                                     
+    Enter zip code ranges:<enter string of zip code ranges as given below>                                                     
      Ex: Input string should be like [94133,94133] [94200,94299] [94600,94699]
  
  # Sample output:
