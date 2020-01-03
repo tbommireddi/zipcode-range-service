@@ -30,8 +30,9 @@ Then the output should be = [94133,94133] [94200,94399]
 2. Maven - https://www.baeldung.com/install-maven-on-windows-linux-mac
 3. Eclipse - https://www.eclipse.org/downloads/packages/installer
 
- # Input Assumption
+ # Input and output Assumption
  Assuming input string should be like [94133,94133] [94200,94299] [94226,94399]
+ Output also a string of zip code ranges like [94133,94133] [94200,94399]
  
  # Steps to run the code from terminal
  1. Download the code from the GIT URL https://github.com/tbommireddi/zipcode-range-service
