@@ -32,4 +32,4 @@ Then the output should be = [94133,94133] [94200,94399]
  
  #Sample output:
  
-https://github.com/tbommireddi/zipcode-range-service/blob/master/SampleOutput.png
+![https://github.com/tbommireddi/zipcode-range-service/blob/master/SampleOutput.png]
