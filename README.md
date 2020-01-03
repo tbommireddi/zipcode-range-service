@@ -46,7 +46,8 @@ Then the output should be = [94133,94133] [94200,94399]
  3. Right click on the project. Select Run As -> Maven install and build the project.
  4. Run ZipCodeRangeExecutor.java and enter the input as [94133,94133] [94200,94299] [94226,94399]
  
- # Sample output:
+ # Sample output in terminal:
 ![alt text](https://github.com/tbommireddi/zipcode-range-service/blob/master/SampleOutput.png)
 
+# Sample output in eclipse:
 ![alt text](https://github.com/tbommireddi/zipcode-range-service/blob/master/Output_Eclipse.png)
