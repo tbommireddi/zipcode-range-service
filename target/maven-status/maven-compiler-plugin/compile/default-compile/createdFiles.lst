@@ -1,0 +1,5 @@
+com/zipcode/range/processor/impl/ZipCodeRangesOverlappingMergeProcessorImpl.class
+com/zipcode/range/model/ZipCodeRange.class
+com/zipcode/range/processor/ZipCodeRangesOverlappingMargeProcessor.class
+com/zipcode/range/validator/ZipCodeRangesValidator.class
+com/zipcode/range/ZipCodeRangeExecutor.class
