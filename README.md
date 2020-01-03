@@ -31,5 +31,4 @@ Then the output should be = [94133,94133] [94200,94399]
      Ex: Input string should be like [94133,94133] [94200,94299] [94600,94699]
  
  #Sample output:
- 
-![picture]https://github.com/tbommireddi/zipcode-range-service/blob/master/SampleOutput.png
+![alt_text]https://github.com/tbommireddi/zipcode-range-service/blob/master/SampleOutput.png
