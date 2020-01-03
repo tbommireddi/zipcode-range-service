@@ -1,1 +1,34 @@
 # zipcode-range-service
+
+Java application to merge the overlapping ZIP code ranges.
+
+# PROBLEM
+
+Given a collection of 5-digit ZIP code ranges (each range includes both their upper and lower bounds), provide an algorithm that produces the minimum number of ranges required to represent the same restrictions as the input.
+
+ NOTES
+- The ranges above are just examples, your implementation should work for any set of arbitrary ranges
+- Ranges may be provided in arbitrary order
+- Ranges may or may not overlap
+- Your solution will be evaluated on the correctness and the approach taken, and adherence to coding standards and best practices
+
+ EXAMPLES:
+
+If the input = [94133,94133] [94200,94299] [94600,94699]
+Then the output should be = [94133,94133] [94200,94299] [94600,94699]
+
+If the input = [94133,94133] [94200,94299] [94226,94399]
+Then the output should be = [94133,94133] [94200,94399]
+
+ 
+ Assuming input string should be like [94133,94133] [94200,94299] [94600,94699].
+ 
+ # Steps to run the code:
+ 1. Download the code from the GIT URL https://github.com/tbommireddi/zipcode-range-service
+ 2. Goto zipcode-range-service/target/ folder
+ 3. Run java -jar zipcode-range-service-0.0.1-SNAPSHOT.jar
+ 4. Enter zip code ranges:<enter string of zip code ranges>
+     Ex: Input string should be like [94133,94133] [94200,94299] [94600,94699]
+ 
+ #Sample output:
+ 
