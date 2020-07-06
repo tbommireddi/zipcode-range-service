@@ -33,22 +33,24 @@ Then the output should be = [94133,94133] [94200,94399]
  # Input and output Assumption
  Assuming input string should be like [94133,94133] [94200,94299] [94226,94399]
  Output also a string of zip code ranges like [94133,94133] [94200,94399]
- 
+
  # Steps to run the code from terminal
  1. Download the code from the GIT URL https://github.com/tbommireddi/zipcode-range-service
  2. Goto /zipcode-range-service/target/ folder in the terminal
  3. Run java -jar zipcode-range-service-0.0.1-SNAPSHOT.jar                                                                     
     Enter zip code ranges:<enter string of zip code ranges as given below>                                                     
      Ex: Input string should be like [94133,94133] [94200,94299] [94226,94399]
- 
+
  # Steps to run the code from Eclipse
  1. Clone or download the code from the GIT URL https://github.com/tbommireddi/zipcode-range-service
  2. Import the maven project into the eclipse
  3. Right click on the project. Select Run As -> Maven install and build the project.
  4. Run ZipCodeRangeExecutor.java and enter the input as [94133,94133] [94200,94299] [94226,94399]
- 
+
  # Sample output in terminal:
 ![alt text](https://github.com/tbommireddi/zipcode-range-service/blob/master/SampleOutput.png)
 
 # Sample output in eclipse:
 ![alt text](https://github.com/tbommireddi/zipcode-range-service/blob/master/Output_Eclipse.png)
+
+#end
